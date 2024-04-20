@@ -1,0 +1,43 @@
+body { 
+  background-color: aqua;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+header {
+    text-align: center;
+    color: rgb(255, 255, 255);
+   
+    
+}
+section
+{
+background:white;
+border-radius: 10px; 
+padding: 15px;
+width: 500px;
+margin: auto;
+box-shadow: 3px 3px 10px black;
+
+}
+
+div  {
+
+text-align: center;
+
+
+} 
+
+
+#msg { 
+  color: black;
+  text-align: center;
+   
+  font-size: 1.3em;
+}
+
+
+footer {
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
